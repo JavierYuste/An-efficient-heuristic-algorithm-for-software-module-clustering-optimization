@@ -7,7 +7,7 @@ To obtain the results, just run the JAR file using the following command:
 java -jar Run.jar
 ```
 
-After running the JAR file, the results will be stored in the "results" folder. This has been tested on Windows 11 and Ubuntu 22.04 with OpenJDK 24.0.1 and OpenJDK 25.0.2.
+After running the JAR file, the results will be stored in the "results" folder. This has been tested on Ubuntu 22.04.5 with OpenJDK 25.0.1.
 
 ## License
 The code in this repository may be used non-commercially.
